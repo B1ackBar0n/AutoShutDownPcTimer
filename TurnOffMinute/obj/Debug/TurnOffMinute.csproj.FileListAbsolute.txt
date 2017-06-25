@@ -1,0 +1,14 @@
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\bin\Debug\TurnOffMinute.exe.config
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\bin\Debug\TurnOffMinute.exe
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\bin\Debug\TurnOffMinute.pdb
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\MainWindow.g.cs
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\App.g.cs
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute_MarkupCompile.cache
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute_MarkupCompile.lref
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\MainWindow.baml
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute.g.resources
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute.Properties.Resources.resources
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute.csproj.GenerateResource.Cache
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute.exe
+C:\Users\Marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Debug\TurnOffMinute.pdb

@@ -1,0 +1,32 @@
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.exe.config
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.exe
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.pdb
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\MainWindow.g.cs
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\App.g.cs
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute_MarkupCompile.cache
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute_MarkupCompile.lref
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\MainWindow.baml
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.g.resources
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.Properties.Resources.resources
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.csproj.GenerateResource.Cache
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.exe
+C:\Users\marko\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.pdb
+D:\Google Drive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.exe.config
+D:\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.exe
+D:\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.pdb
+C:\Users\MarkoPloj\Google Drive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.exe.config
+C:\Users\MarkoPloj\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.exe
+C:\Users\MarkoPloj\Google Drive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.pdb
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.exe.config
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.exe
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\bin\Release\TurnOffMinute.pdb
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\MainWindow.g.cs
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\App.g.cs
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute_MarkupCompile.cache
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute_MarkupCompile.lref
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\MainWindow.baml
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.g.resources
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.Properties.Resources.resources
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.csproj.GenerateResource.Cache
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.exe
+D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.pdb
