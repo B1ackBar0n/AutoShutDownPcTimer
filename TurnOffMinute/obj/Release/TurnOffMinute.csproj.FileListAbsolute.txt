@@ -30,3 +30,6 @@ D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.Properties.
 D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.csproj.GenerateResource.Cache
 D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.exe
 D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.pdb
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\bin\Release\TurnOffMinute.exe.config
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.exe
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.pdb
