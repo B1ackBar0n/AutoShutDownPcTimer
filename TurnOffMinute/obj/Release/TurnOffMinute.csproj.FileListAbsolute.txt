@@ -44,3 +44,5 @@ D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\MainWindow.baml
 D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.g.resources
 D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.Properties.Resources.resources
 D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.csproj.GenerateResource.Cache
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.csproj.CoreCompileInputs.cache

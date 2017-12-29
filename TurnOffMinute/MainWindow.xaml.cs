@@ -89,7 +89,7 @@ namespace TurnOffMinute
 
         private void ShutDown(object sender, RoutedEventArgs e)
         {
-            Process.Start("shutdown", "/s /t 0");
+            Process.Start("shutdown", "/s /t 3");
         }
     }
 }
