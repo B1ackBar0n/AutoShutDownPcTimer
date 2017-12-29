@@ -60,7 +60,6 @@ namespace TurnOffMinute
         public MainWindow()
         {
             InitializeComponent();
-            PlayTetris();
             StartTimer();
         }
 
