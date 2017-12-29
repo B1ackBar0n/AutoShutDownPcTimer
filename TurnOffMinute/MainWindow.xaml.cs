@@ -24,10 +24,12 @@ namespace TurnOffMinute
     public partial class MainWindow : Window
     {
         DispatcherTimer timer;
-        int sec = 60;
+
+        public int sec { get; set; } = 60;
 
         void PlayTetris()//Plays tetris sound
         {
+            /*
             Console.Beep(658, 125);
             Console.Beep(1320, 500);
             Console.Beep(990, 250);
@@ -50,7 +52,7 @@ namespace TurnOffMinute
             Console.Beep(1056, 500);
             Console.Beep(880, 500);
             Console.Beep(880, 500);
-            Thread.Sleep(250);
+            Thread.Sleep(250);*/
            
         }
 
@@ -74,7 +76,7 @@ namespace TurnOffMinute
         {
             if (sec < 1)
             {
-                Process.Start("shutdown", "/s /t 0");
+                //Process.Start("shutdown", "/s /t 0");
             }
             TextBlock_Seconds.Text = sec.ToString();
             sec--;

@@ -33,3 +33,14 @@ D:\GoogleDrive\TurnOffMinute\TurnOffMinute\obj\Release\TurnOffMinute.pdb
 D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\bin\Release\TurnOffMinute.exe.config
 D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.exe
 D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.pdb
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\bin\Release\TurnOffMinute.exe
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\bin\Release\TurnOffMinute.pdb
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.csprojResolveAssemblyReference.cache
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\MainWindow.g.cs
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\App.g.cs
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute_MarkupCompile.cache
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute_MarkupCompile.lref
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\MainWindow.baml
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.g.resources
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.Properties.Resources.resources
+D:\ShutDownTimer\AutoShutDownPcTimer\TurnOffMinute\obj\Release\TurnOffMinute.csproj.GenerateResource.Cache
